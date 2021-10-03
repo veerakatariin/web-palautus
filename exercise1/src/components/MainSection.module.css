@@ -1,0 +1,18 @@
+.container {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 250px;
+    margin-bottom: 20px;
+    width: 600px;
+    background-color: white;
+    padding: 12px;
+}
+
+.topic {
+    background-color: white;
+    text-align: left;
+    font-weight: 700;
+    padding-top: 12px;
+}
+
