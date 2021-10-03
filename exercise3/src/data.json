@@ -1,0 +1,40 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "name": "Cuisinart Cast Iron Casserole, 5.5 Qt Oval Covered, Enameled Provencial Blue",
+        "manufacturer": "Cuisinart",
+        "category": "Casserole",
+        "price": 15.12,
+        "rating": 2,
+        "image": "cuisinart.png"
+      },
+      {
+        "id": 2,
+        "name": "Vitamix A3500 Ascent Series Smart Blender, Professional-Grade, 64 oz. Low-Profile Container, Graphite",
+        "manufacturer": "Vitamix",
+        "category": "Blender",
+        "price": 20.20,
+        "rating": 4,
+        "image": "vitamix.png"
+      },
+      {
+        "id": 3,
+        "name": "Libbey Mixologist 9-Piece Cocktail Set",
+        "manufacturer": "Libbey",
+        "type": "Coctail Set",
+        "price": 12.99,
+        "rating": 5,
+        "image": "libbey.png"
+      },
+      {
+        "id": 4,
+      "name": "KitchenAid Stainless Steel Bowl , 4.5-Quart, Silver",
+      "manufacturer": "KitchenAid",
+      "category": "Bowl",
+      "price": 12.60,
+      "rating": 1,
+      "image": "kitchenaid.png"
+      }
+    ]
+  }

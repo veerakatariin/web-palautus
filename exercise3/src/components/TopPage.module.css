@@ -1,0 +1,14 @@
+.header {
+    background-color: rgb(15, 17, 17);
+    width: 80%;
+    height: 100px;
+}
+
+.container {
+    display: flex;
+    color: white;
+    align-items: center;
+    margin-left: 40px;
+    margin-top: 40px;
+    white-space: nowrap;
+}
